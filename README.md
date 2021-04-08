@@ -1,4 +1,4 @@
-# This is the repository hosting my website
+# This is my repository of PRG, a YouTube creator, hosting my website
 ## https://prg-youtube.github.io/
 
 # All videos on that website are also in my channel on YouTube:
